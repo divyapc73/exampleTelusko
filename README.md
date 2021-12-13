@@ -1,0 +1,2 @@
+# exampleTelusko
+For Git Understanding
