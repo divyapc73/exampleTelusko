@@ -2,3 +2,7 @@ Recipes example by telusko
 
 Kheer
 Pasta
+
+Adding new dishes to reipes to explore more about edit option
+
+Puri
